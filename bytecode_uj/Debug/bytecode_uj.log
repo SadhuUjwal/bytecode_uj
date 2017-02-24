@@ -1,0 +1,31 @@
+﻿Build started 15-02-2015 AM 10:29:23.
+     1>Project "C:\Users\ujwal\Documents\Visual Studio 2010\Projects\bytecode_uj\bytecode_uj\bytecode_uj.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\bytecode_uj.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\bytecode_uj.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt bytecode_uj.cpp /clr:nostdlib 
+         bytecode_uj.cpp
+     1>c:\users\ujwal\documents\visual studio 2010\projects\bytecode_uj\bytecode_uj\bytecode_uj.cpp(79): warning C4717: 'operator+' : recursive on all control paths, function will cause runtime stack overflow
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ujwal\Documents\Visual Studio 2010\Projects\bytecode_uj\Debug\bytecode_uj.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\bytecode_uj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ujwal\Documents\Visual Studio 2010\Projects\bytecode_uj\Debug\bytecode_uj.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\bytecode_uj.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         bytecode_uj.vcxproj -> C:\Users\ujwal\Documents\Visual Studio 2010\Projects\bytecode_uj\Debug\bytecode_uj.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ujwal\Documents\Visual Studio 2010\Projects\bytecode_uj\Debug\bytecode_uj.exe;#1" /manifest Debug\bytecode_uj.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\bytecode_uj.unsuccessfulbuild".
+         Touching "Debug\bytecode_uj.lastbuildstate".
+     1>Done Building Project "C:\Users\ujwal\Documents\Visual Studio 2010\Projects\bytecode_uj\bytecode_uj\bytecode_uj.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.39

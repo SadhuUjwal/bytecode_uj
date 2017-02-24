@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2014
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bytecode_uj", "bytecode_uj\bytecode_uj.vcxproj", "{681EF1B1-39ED-4692-93DA-9B289B25871E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681EF1B1-39ED-4692-93DA-9B289B25871E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{681EF1B1-39ED-4692-93DA-9B289B25871E}.Debug|Win32.Build.0 = Debug|Win32
+		{681EF1B1-39ED-4692-93DA-9B289B25871E}.Release|Win32.ActiveCfg = Release|Win32
+		{681EF1B1-39ED-4692-93DA-9B289B25871E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
